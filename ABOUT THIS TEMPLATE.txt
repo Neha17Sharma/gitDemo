@@ -19,3 +19,6 @@ chocolate
 moong halwa
 
 hello world
+shinchan
+doremon
+dora
